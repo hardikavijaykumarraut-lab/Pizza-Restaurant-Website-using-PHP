@@ -83,8 +83,5 @@ Troubleshooting
 - If you see DB connection errors, re-check `db.php` credentials and ensure the `pizza_restaurant` database exists.
 - If images don’t show, confirm the `assets/` path is present and files were not removed by `.gitignore` rules.
 
-License
-- Add a `LICENSE` file if you want to publish under an open-source license (e.g., MIT). I can add one on request.
-
 Contact / Next steps
 - Tell me if you want a `LICENSE`, GitHub Actions workflow for CI, or a simple `.htaccess` to harden the project.
